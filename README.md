@@ -212,8 +212,6 @@ Place screenshots in screenshots/ and reference them here (recommended numbering
 
 09-alarm-in-alarm.png
 
-10-recovery-success.png
-
 Teardown / Cost Control
 
 See:
